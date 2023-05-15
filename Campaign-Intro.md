@@ -8,7 +8,7 @@ For those of you who are new here, we have both a history and geography lesson t
 
 **Greater Arthia** is a large empire covering most of the Eastern and Western continents of **Easorhn**.  
 
-[The map itself can be viewed here.](https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https://raw.githubusercontent.com/OhMyTallest-Productions/Arthian-Map/master/Arthia-main.map&x=2100&y=1040&scale=1.2)
+[The map itself can be viewed here.](https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https://raw.githubusercontent.com/omtp-games/Arthian-Map/main/Arthia-main.map&x=1750&y=950&scale=0.9)
 
 **Arthia** is the capitol city of **Greater Arthia** and the seat of power for the government. It is centrally located on the western continent to ensure that edicts from the crown reach every corner of **Greater Arthia** at around the same time. The original kingdom of **Arthia** was the area around the city but has fallen into disuse over the centuries.
 
